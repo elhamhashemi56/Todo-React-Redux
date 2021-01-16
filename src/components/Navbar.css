@@ -1,0 +1,13 @@
+.nav ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    
+    
+}
+
+.nav li{
+    
+    padding-left: 20px;
+    /* background-color: peru; */
+}

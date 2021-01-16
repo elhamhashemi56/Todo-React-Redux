@@ -1,0 +1,26 @@
+
+.Todo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+input[type='text']{
+    width: 400px;
+    border: 1px solid rgb(185, 183, 183);
+    height: 25px;
+}
+
+fieldset{
+    width: 600px;
+    border: 1px solid goldenrod;
+}
+
+button{
+    border: none;
+    border-radius: 5px;
+    background-color: rgba(247, 235, 206, 0.281);
+    height: 30px;
+    color: black;
+}
